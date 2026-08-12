@@ -1,5 +1,0 @@
-[build]
-builder = "RAILPACK"
-
-[deploy]
-start = "python bot.py"
